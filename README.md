@@ -17,7 +17,7 @@ Azure RBAC table:
 | IT Ops | owner        | owner       | owner              | owner       |
 | AI     | reader       | contributor | owner              | reader      |
 | SWE    | reader       | contributor | owner              | reader      |
-| DevOps | contributor  | contributor | owner              | reader      |
+| DevOps | contributor  | contributor | owner              | contributor |
 | Sec    | contributor  | contributor | owner              | contributor |
 
 
